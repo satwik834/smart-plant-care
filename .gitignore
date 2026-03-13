@@ -1,0 +1,114 @@
+# ============================================================
+# Python / Backend
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+ENV/
+
+# Flask / SQLite
+instance/
+*.sqlite
+*.db
+db.sqlite
+
+# Uploads (runtime generated content)
+backend/uploads/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy / type checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ============================================================
+# Node.js / Frontend
+# ============================================================
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native generated folders
+/frontend/smart-plant/ios/
+/frontend/smart-plant/android/
+
+# Metro bundler
+.metro-health-check*
+
+# Debug logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# TypeScript build artifacts
+*.tsbuildinfo
+
+# Native keys / certs
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# ============================================================
+# Datasets (usually large — track with Git LFS if needed)
+# ============================================================
+datasets/
+
+# ============================================================
+# Large model weights (track with Git LFS if needed)
+# ============================================================
+# Uncomment below to exclude the .pt model from regular git tracking
+# *.pt
+# *.pth
