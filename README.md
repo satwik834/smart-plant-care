@@ -1,4 +1,4 @@
-# 🌿 Smart Plant Nursery Monitoring System
+# Smart Plant Nursery Monitoring System
 
 A full-stack IoT solution for monitoring and managing plant health in a nursery environment. The system combines **real-time sensor data**, **AI-powered disease detection**, and **automated/manual irrigation control** into a unified platform accessible via a mobile app.
 
