@@ -4,7 +4,7 @@ A full-stack IoT solution for monitoring and managing plant health in a nursery 
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Architecture](#architecture)
